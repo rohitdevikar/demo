@@ -1,1 +1,4 @@
+function greeeting(){
 alert("Hi Everyone");
+}
+greeting();
